@@ -244,4 +244,59 @@ Criterios de Aceptación
 ✅ Sin bloqueos
 ✅ Reportes exportados
 
+
+
+📋 Comandos Esenciales
+1. Ejecutar TODOS los tests
+bash
+python -m pytest tests/ -v
+Resultado esperado:
+text
+tests/unit/test_ocr.py ✓
+tests/unit/test_validators.py ✓
+tests/integration/test_integration_flow.py ✓
+tests/parallel/test_concurrent_queries.py ✓
+6 passed in 5.12s
+2. Test PRINCIPAL: 15 consultas paralelas (Requisito clave)
+bash
+python -m pytest tests/parallel/test_concurrent_queries.py::TestParallelQueries::test_15_parallel_queries -v
+Verificación:
+bash
+# Confirmar que pasa el test principal
+python -m pytest tests/parallel/test_concurrent_queries.py -k "test_15_parallel" -v
+3. Suite de tests paralelos completa
+bash
+# Todos los tests de paralelismo
+python -m pytest tests/parallel/ -v
+
+# Con reporte detallado
+python -m pytest tests/parallel/ -v --tb=long
+
+# Solo nombres de tests
+python -m pytest tests/parallel/ --collect-only
+4. Tests unitarios específicos
+bash
+# Tests de OCR (reconocimiento de texto)
+python -m pytest tests/unit/test_ocr.py -v
+
+# Tests de validación de datos
+python -m pytest tests/unit/test_validators.py -v
+
+# Tests de extracción de PDF
+python -m pytest tests/unit/test_extractors.py -v
+5. Tests de integración
+bash
+# Flujo completo del sistema
+python -m pytest tests/integration/test_integration_flow.py -v
+
+# Integración con base de datos
+python -m pytest tests/integration/test_database_integration.py -v
+
+# Tests de exportación
+python -m pytest tests/integration/test_export_integration.py -v
+
+
+
+
+
 <p align="center"><b>⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub ⭐</b></p> <p align="center"> <img src="https://img.shields.io/badge/Estado-Producción-brightgreen"> <img src="https://img.shields.io/badge/Pruebas-100%25-success"> <img src="https://img.shields.io/badge/Licencia-Educacional-yellow"> </p> <p align="center"><b>🚀 ¡Sistema listo para producción! 🚀</b></p>
