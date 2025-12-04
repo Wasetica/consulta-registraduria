@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+<<<<<<< HEAD
 CONSULTA REAL A REGISTRADURÍA NACIONAL
 Conecta REALMENTE a: https://certvigenciacedula.registraduria.gov.co/Datos.aspx
 Descarga PDFs reales y extrae información
@@ -541,3 +542,8 @@ if __name__ == "__main__":
         print(f"\n❌ Error crítico: {e}")
         import traceback
         traceback.print_exc()
+=======
+CONSULTA SIMPLE - Punto de entrada del sistema
+"""
+print("✅ Sistema EXPLORADOR - Consulta Registraduría")
+>>>>>>> temp
