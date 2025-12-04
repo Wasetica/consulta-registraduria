@@ -1,0 +1,2 @@
+# Dependencias mínimas
+pytest==8.2.0

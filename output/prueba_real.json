@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-12-04T11:36:03.624101",
+    "documento": "1032493824",
+    "nombre": "EJEMPLO CIUDADANO REAL",
+    "fecha_expedicion": "2015-10-09",
+    "fecha_nacimiento": null,
+    "lugar_expedicion": "BOGOTÁ D.C.",
+    "estado_vigencia": "VIGENTE",
+    "direccion": null,
+    "pdf_path": "pdfs/1032493824.pdf",
+    "consulta_exitosa": 1,
+    "tiempo_respuesta": 2.5,
+    "codigo_error": null,
+    "intento": 1,
+    "fuente": "tusdatos.co"
+  }
+]

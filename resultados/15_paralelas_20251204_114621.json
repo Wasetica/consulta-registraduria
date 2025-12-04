@@ -1,0 +1,119 @@
+{
+  "fecha_ejecucion": "2025-12-04T11:46:21.406933",
+  "total_documentos": 15,
+  "tiempo_total": 0.5031616687774658,
+  "documentos": [
+    "TEST000001",
+    "TEST000002",
+    "TEST000003",
+    "TEST000004",
+    "TEST000005",
+    "TEST000006",
+    "TEST000007",
+    "TEST000008",
+    "TEST000009",
+    "TEST000010",
+    "TEST000011",
+    "TEST000012",
+    "TEST000013",
+    "TEST000014",
+    "TEST000015"
+  ],
+  "resultados": [
+    {
+      "id": 1,
+      "documento": "TEST000001",
+      "success": true,
+      "execution_time": 0.5000839233398438
+    },
+    {
+      "id": 2,
+      "documento": "TEST000002",
+      "success": true,
+      "execution_time": 0.5000941753387451
+    },
+    {
+      "id": 3,
+      "documento": "TEST000003",
+      "success": true,
+      "execution_time": 0.5000572204589844
+    },
+    {
+      "id": 4,
+      "documento": "TEST000004",
+      "success": true,
+      "execution_time": 0.500056266784668
+    },
+    {
+      "id": 5,
+      "documento": "TEST000005",
+      "success": true,
+      "execution_time": 0.5000553131103516
+    },
+    {
+      "id": 6,
+      "documento": "TEST000006",
+      "success": true,
+      "execution_time": 0.5000543594360352
+    },
+    {
+      "id": 7,
+      "documento": "TEST000007",
+      "success": true,
+      "execution_time": 0.5000543594360352
+    },
+    {
+      "id": 8,
+      "documento": "TEST000008",
+      "success": true,
+      "execution_time": 0.5000357627868652
+    },
+    {
+      "id": 9,
+      "documento": "TEST000009",
+      "success": true,
+      "execution_time": 0.5000545978546143
+    },
+    {
+      "id": 10,
+      "documento": "TEST000010",
+      "success": true,
+      "execution_time": 0.5000543594360352
+    },
+    {
+      "id": 11,
+      "documento": "TEST000011",
+      "success": true,
+      "execution_time": 0.5000545978546143
+    },
+    {
+      "id": 12,
+      "documento": "TEST000012",
+      "success": true,
+      "execution_time": 0.5000550746917725
+    },
+    {
+      "id": 13,
+      "documento": "TEST000013",
+      "success": true,
+      "execution_time": 0.5000591278076172
+    },
+    {
+      "id": 14,
+      "documento": "TEST000014",
+      "success": true,
+      "execution_time": 0.5000550746917725
+    },
+    {
+      "id": 15,
+      "documento": "TEST000015",
+      "success": true,
+      "execution_time": 0.5000543594360352
+    }
+  ],
+  "metricas": {
+    "exitosos": 15,
+    "fallidos": 0,
+    "tiempo_promedio": 0.03354411125183106
+  }
+}

@@ -1,0 +1,182 @@
+2025-12-04 11:27:36,722 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:27:36,934 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:27:36,934 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:27:37,165 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:27:37,165 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:27:37,165 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:27:37,168 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:27:37,168 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:27:37,170 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:27:37,170 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:27:37,257 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:27:37,257 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:27:37,257 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:27:37,762 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_112737.json
+2025-12-04 11:27:37,778 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:27:37,779 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112737.json
+2025-12-04 11:27:37,900 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:27:38,008 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:27:38,008 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:27:38,111 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:27:38,111 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:27:38,111 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:27:38,112 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:27:38,112 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:27:38,112 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:27:38,112 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:27:38,184 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:27:38,184 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:27:38,184 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:27:38,185 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112738.json
+2025-12-04 11:27:38,185 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:27:38,185 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112738.json
+2025-12-04 11:27:55,280 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:27:55,386 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:27:55,386 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:27:55,490 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:27:55,490 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:27:55,490 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:27:55,491 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:27:55,491 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:27:55,491 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:27:55,491 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:27:55,560 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:27:55,560 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:27:55,560 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:27:55,561 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112755.json
+2025-12-04 11:27:55,561 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:27:55,561 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112755.json
+2025-12-04 11:28:19,685 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:28:19,788 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:28:19,788 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:28:19,894 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:28:19,894 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:28:19,894 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:28:19,894 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:28:19,894 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:28:19,895 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:28:19,895 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:28:19,966 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:28:19,966 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:28:19,966 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:28:20,471 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_112820.json
+2025-12-04 11:28:20,487 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:20,488 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112820.json
+2025-12-04 11:28:20,611 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:28:20,720 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:28:20,720 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:28:20,825 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:28:20,825 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:28:20,825 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:28:20,825 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:28:20,825 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:28:20,826 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:28:20,826 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:28:20,899 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:28:20,899 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:28:20,900 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:20,900 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112820.json
+2025-12-04 11:28:20,900 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:20,908 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112820.json
+2025-12-04 11:28:43,236 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:28:43,354 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:28:43,354 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:28:43,459 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:28:43,459 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:28:43,459 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:28:43,460 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:28:43,460 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:28:43,460 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:28:43,460 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:28:43,529 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:28:43,529 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:28:43,529 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:28:44,033 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_112844.json
+2025-12-04 11:28:44,041 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:44,042 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112844.json
+2025-12-04 11:28:50,761 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:28:50,874 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:28:50,874 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:28:50,985 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:28:50,985 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:28:50,985 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:28:50,986 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:28:50,986 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:28:50,986 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:28:50,986 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:28:51,062 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:28:51,063 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:28:51,063 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:51,063 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112851.json
+2025-12-04 11:28:51,064 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:51,064 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112851.json
+2025-12-04 11:28:58,226 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:28:58,331 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 11:28:58,331 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 11:28:58,430 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:28:58,430 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:28:58,430 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:28:58,431 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:28:58,431 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:28:58,431 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:28:58,431 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:28:58,497 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:28:58,497 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:28:58,501 - storage.database - INFO - ✅ Datos exportados a CSV: output/consultas.csv (0 registros)
+2025-12-04 11:28:58,501 - storage.database - INFO - ✅ Datos exportados a JSON: output/consultas.json (0 registros)
+2025-12-04 11:28:58,628 - storage.database - INFO - ✅ Datos exportados a Excel: output/consultas.xlsx
+2025-12-04 11:28:58,628 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:28:58,628 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_112858.json
+2025-12-04 11:36:24,947 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:36:25,207 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:36:25,207 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:36:25,207 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:36:25,281 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:36:25,281 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:36:25,289 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:36:25,289 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:36:25,336 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:36:25,336 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:36:25,336 - __main__ - INFO - 🔍 Iniciando flujo completo para: 1032493824
+2025-12-04 11:36:44,704 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:36:44,967 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:36:44,967 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:36:44,967 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:36:45,048 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:36:45,048 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:36:45,048 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:36:45,048 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:36:45,099 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:36:45,099 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:36:45,099 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:36:45,603 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_113645.json
+2025-12-04 11:36:45,620 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:36:45,620 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_113645.json
+2025-12-04 11:46:20,539 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:46:20,769 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:46:20,769 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:46:20,769 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:46:20,843 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:46:20,843 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:46:20,855 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:46:20,855 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:46:20,903 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:46:20,903 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:46:20,903 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:46:21,407 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_114621.json
+2025-12-04 11:46:21,424 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:46:21,425 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_114621.json
+2025-12-04 11:46:54,280 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 11:46:54,529 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 11:46:54,530 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 11:46:54,530 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 11:46:54,612 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 11:46:54,612 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 11:46:54,613 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: main
+2025-12-04 11:46:54,613 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 11:46:54,666 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 11:46:54,666 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 11:46:54,666 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 11:46:55,170 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_114655.json
+2025-12-04 11:46:55,187 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 11:46:55,188 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_114655.json

@@ -1,0 +1,7 @@
+{
+    "base_url": "https://certvigenciacedula.registraduria.gov.co/Datos.aspx",
+    "download_path": "output/pdfs",
+    "captcha_path": "captcha/temp.png",
+    "ocr_language": "eng",
+    "timeout": 15000
+}

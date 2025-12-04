@@ -1,0 +1,51 @@
+2025-12-04 11:45:01,154 - __main__ - INFO - ✅ Scraper inicializado (Session: 20251204_114501)
+2025-12-04 11:45:01,273 - __main__ - INFO - 🚀 Iniciando navegador Chrome...
+2025-12-04 11:45:01,273 - WDM - INFO - ====== WebDriver manager ======
+2025-12-04 11:45:01,355 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:01,672 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:01,969 - WDM - INFO - There is no [linux64] chromedriver "143.0.7499.40" for browser google-chrome "143.0.7499" in cache
+2025-12-04 11:45:01,970 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:02,697 - WDM - INFO - WebDriver version 143.0.7499.40 selected
+2025-12-04 11:45:02,702 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.40/linux64/chromedriver-linux64.zip
+2025-12-04 11:45:02,703 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.40/linux64/chromedriver-linux64.zip
+2025-12-04 11:45:02,816 - WDM - INFO - Driver downloading response is 200
+2025-12-04 11:45:03,064 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:03,458 - WDM - INFO - Driver has been saved in cache [/home/waseta/.wdm/drivers/chromedriver/linux64/143.0.7499.40]
+2025-12-04 11:45:03,803 - __main__ - INFO - ✅ Navegador iniciado exitosamente
+2025-12-04 11:45:03,804 - __main__ - INFO - 🔍 Consultando cédula REAL: 1032493824
+2025-12-04 11:45:03,804 - __main__ - INFO - 🌐 Navegando a: https://certvigenciacedula.registraduria.gov.co/Datos.aspx
+2025-12-04 11:45:04,890 - __main__ - ERROR - ❌ Error en consulta: name 'EC' is not defined
+2025-12-04 11:45:04,973 - __main__ - INFO - 👋 Navegador cerrado
+2025-12-04 11:45:05,061 - __main__ - INFO - ✅ Scraper inicializado (Session: 20251204_114505)
+2025-12-04 11:45:05,183 - __main__ - INFO - 🚀 Iniciando navegador Chrome...
+2025-12-04 11:45:05,183 - WDM - INFO - ====== WebDriver manager ======
+2025-12-04 11:45:05,239 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:05,548 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:45:05,839 - WDM - INFO - Driver [/home/waseta/.wdm/drivers/chromedriver/linux64/143.0.7499.40/chromedriver-linux64/chromedriver] found in cache
+2025-12-04 11:45:06,081 - __main__ - INFO - ✅ Navegador iniciado exitosamente
+2025-12-04 11:45:06,081 - __main__ - INFO - 🔍 Consultando cédula REAL: 1032493824
+2025-12-04 11:45:06,081 - __main__ - INFO - 🌐 Navegando a: https://certvigenciacedula.registraduria.gov.co/Datos.aspx
+2025-12-04 11:45:07,148 - __main__ - ERROR - ❌ Error en consulta: name 'EC' is not defined
+2025-12-04 11:45:07,223 - __main__ - INFO - 👋 Navegador cerrado
+2025-12-04 11:46:15,029 - __main__ - INFO - ✅ Scraper inicializado (Session: 20251204_114615)
+2025-12-04 11:46:15,145 - __main__ - INFO - 🚀 Iniciando navegador Chrome...
+2025-12-04 11:46:15,145 - WDM - INFO - ====== WebDriver manager ======
+2025-12-04 11:46:15,200 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:46:15,502 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:46:15,785 - WDM - INFO - Driver [/home/waseta/.wdm/drivers/chromedriver/linux64/143.0.7499.40/chromedriver-linux64/chromedriver] found in cache
+2025-12-04 11:46:16,000 - __main__ - INFO - ✅ Navegador iniciado exitosamente
+2025-12-04 11:46:16,000 - __main__ - INFO - 🔍 Consultando cédula REAL: 1032493824
+2025-12-04 11:46:16,000 - __main__ - INFO - 🌐 Navegando a: https://certvigenciacedula.registraduria.gov.co/Datos.aspx
+2025-12-04 11:46:17,059 - __main__ - ERROR - ❌ Error en consulta: name 'EC' is not defined
+2025-12-04 11:46:17,132 - __main__ - INFO - 👋 Navegador cerrado
+2025-12-04 11:46:48,785 - __main__ - INFO - ✅ Scraper inicializado (Session: 20251204_114648)
+2025-12-04 11:46:48,900 - __main__ - INFO - 🚀 Iniciando navegador Chrome...
+2025-12-04 11:46:48,900 - WDM - INFO - ====== WebDriver manager ======
+2025-12-04 11:46:48,954 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:46:49,251 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-04 11:46:49,546 - WDM - INFO - Driver [/home/waseta/.wdm/drivers/chromedriver/linux64/143.0.7499.40/chromedriver-linux64/chromedriver] found in cache
+2025-12-04 11:46:49,745 - __main__ - INFO - ✅ Navegador iniciado exitosamente
+2025-12-04 11:46:49,745 - __main__ - INFO - 🔍 Consultando cédula REAL: 1032493824
+2025-12-04 11:46:49,745 - __main__ - INFO - 🌐 Navegando a: https://certvigenciacedula.registraduria.gov.co/Datos.aspx
+2025-12-04 11:46:50,817 - __main__ - ERROR - ❌ Error en consulta: name 'EC' is not defined
+2025-12-04 11:46:50,892 - __main__ - INFO - 👋 Navegador cerrado

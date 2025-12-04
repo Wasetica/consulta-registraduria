@@ -1,0 +1,119 @@
+{
+  "fecha_ejecucion": "2025-12-04T11:36:45.603047",
+  "total_documentos": 15,
+  "tiempo_total": 0.5032289028167725,
+  "documentos": [
+    "1032493824  # Real - Exp: 09/10/2015",
+    "100000001   # Mock",
+    "100000002   # Mock",
+    "100000003   # Mock",
+    "100000004   # Mock",
+    "100000005   # Mock",
+    "100000006   # Mock",
+    "100000007   # Mock",
+    "100000008   # Mock",
+    "100000009   # Mock",
+    "100000010   # Mock",
+    "100000011   # Mock",
+    "100000012   # Mock",
+    "100000013   # Mock",
+    "100000014   # Mock"
+  ],
+  "resultados": [
+    {
+      "id": 1,
+      "documento": "1032493824  # Real - Exp: 09/10/2015",
+      "success": true,
+      "execution_time": 0.5000684261322021
+    },
+    {
+      "id": 2,
+      "documento": "100000001   # Mock",
+      "success": true,
+      "execution_time": 0.5000779628753662
+    },
+    {
+      "id": 3,
+      "documento": "100000002   # Mock",
+      "success": true,
+      "execution_time": 0.5000731945037842
+    },
+    {
+      "id": 4,
+      "documento": "100000003   # Mock",
+      "success": true,
+      "execution_time": 0.5000553131103516
+    },
+    {
+      "id": 5,
+      "documento": "100000004   # Mock",
+      "success": true,
+      "execution_time": 0.5000805854797363
+    },
+    {
+      "id": 6,
+      "documento": "100000005   # Mock",
+      "success": true,
+      "execution_time": 0.5000717639923096
+    },
+    {
+      "id": 7,
+      "documento": "100000006   # Mock",
+      "success": true,
+      "execution_time": 0.5000443458557129
+    },
+    {
+      "id": 8,
+      "documento": "100000007   # Mock",
+      "success": true,
+      "execution_time": 0.5000581741333008
+    },
+    {
+      "id": 9,
+      "documento": "100000008   # Mock",
+      "success": true,
+      "execution_time": 0.5000550746917725
+    },
+    {
+      "id": 10,
+      "documento": "100000009   # Mock",
+      "success": true,
+      "execution_time": 0.5000555515289307
+    },
+    {
+      "id": 11,
+      "documento": "100000010   # Mock",
+      "success": true,
+      "execution_time": 0.5000548362731934
+    },
+    {
+      "id": 12,
+      "documento": "100000011   # Mock",
+      "success": true,
+      "execution_time": 0.5000545978546143
+    },
+    {
+      "id": 13,
+      "documento": "100000012   # Mock",
+      "success": true,
+      "execution_time": 0.5000667572021484
+    },
+    {
+      "id": 14,
+      "documento": "100000013   # Mock",
+      "success": true,
+      "execution_time": 0.5000557899475098
+    },
+    {
+      "id": 15,
+      "documento": "100000014   # Mock",
+      "success": true,
+      "execution_time": 0.5000593662261963
+    }
+  ],
+  "metricas": {
+    "exitosos": 15,
+    "fallidos": 0,
+    "tiempo_promedio": 0.033548593521118164
+  }
+}
