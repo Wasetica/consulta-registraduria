@@ -146,8 +146,9 @@ Permitido
 
 📞 Contacto
 
-Autor: William Angulo
+Autor: Sebastian Pérez Quintana 
 GitHub: @Wasetica
+Linkedin :  https://www.linkedin.com/in/sebasti%C3%A1n-perez-q/
 Repositorio: https://github.com/Wasetica/consulta-registraduria-qa
 
 Soporte: Abrir un Issue en GitHub
