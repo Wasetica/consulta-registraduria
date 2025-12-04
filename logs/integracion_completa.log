@@ -180,3 +180,43 @@
 2025-12-04 11:46:55,170 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_114655.json
 2025-12-04 11:46:55,187 - __main__ - INFO - 📊 Generando reporte final...
 2025-12-04 11:46:55,188 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_114655.json
+2025-12-04 14:35:51,872 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:35:52,058 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 14:35:52,058 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 14:35:52,187 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:35:52,187 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:35:52,187 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:35:52,190 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:35:52,190 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 14:36:46,216 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:36:46,320 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 14:36:46,320 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 14:36:46,412 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:36:46,412 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:36:46,412 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:36:46,413 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:36:46,413 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 14:37:01,832 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:37:01,930 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 14:37:01,930 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 14:37:02,027 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:37:02,027 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:37:02,027 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:37:02,027 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:37:02,027 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 16:21:41,276 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 16:21:41,361 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-12-04 16:21:41,362 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-12-04 16:21:41,439 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 16:21:41,439 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 16:21:41,439 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 16:21:41,439 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 16:21:41,439 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 16:21:41,440 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: realizar_consulta
+2025-12-04 16:21:41,440 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 16:21:41,500 - __main__ - INFO - ✅ Sistema de pruebas paralelas cargado
+2025-12-04 16:21:41,500 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 16:21:41,500 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 16:21:42,003 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_162142.json
+2025-12-04 16:21:42,020 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 16:21:42,020 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_162142.json

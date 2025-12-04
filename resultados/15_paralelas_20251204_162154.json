@@ -1,0 +1,112 @@
+{
+  "fecha": "2025-12-04T16:21:54.039584",
+  "tiempo_total": 1.928534984588623,
+  "exitosas": 12,
+  "resultados": [
+    {
+      "id": 6,
+      "documento": "TEST006",
+      "success": true,
+      "tiempo": 0.5759322643280029,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 7,
+      "documento": "TEST007",
+      "success": true,
+      "tiempo": 0.5977058410644531,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 13,
+      "documento": "TEST013",
+      "success": true,
+      "tiempo": 0.6156458854675293,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 2,
+      "documento": "TEST002",
+      "success": true,
+      "tiempo": 0.8367195129394531,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 12,
+      "documento": "TEST012",
+      "success": true,
+      "tiempo": 0.9684257507324219,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 15,
+      "documento": "TEST015",
+      "success": false,
+      "tiempo": 1.2930347919464111,
+      "mensaje": "\u274c Fallo"
+    },
+    {
+      "id": 14,
+      "documento": "TEST014",
+      "success": true,
+      "tiempo": 1.3124866485595703,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 11,
+      "documento": "TEST011",
+      "success": true,
+      "tiempo": 1.4115536212921143,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 5,
+      "documento": "TEST005",
+      "success": true,
+      "tiempo": 1.4184610843658447,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 1,
+      "documento": "TEST001",
+      "success": true,
+      "tiempo": 1.5141582489013672,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 3,
+      "documento": "TEST003",
+      "success": false,
+      "tiempo": 1.5661592483520508,
+      "mensaje": "\u274c Fallo"
+    },
+    {
+      "id": 4,
+      "documento": "TEST004",
+      "success": true,
+      "tiempo": 1.583078145980835,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 8,
+      "documento": "TEST008",
+      "success": false,
+      "tiempo": 1.724205493927002,
+      "mensaje": "\u274c Fallo"
+    },
+    {
+      "id": 9,
+      "documento": "TEST009",
+      "success": true,
+      "tiempo": 1.7604763507843018,
+      "mensaje": "\u2705 \u00c9xito"
+    },
+    {
+      "id": 10,
+      "documento": "TEST010",
+      "success": true,
+      "tiempo": 1.9264404773712158,
+      "mensaje": "\u2705 \u00c9xito"
+    }
+  ]
+}
